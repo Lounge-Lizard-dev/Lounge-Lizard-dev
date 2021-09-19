@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an new project about app of Rules of Rugby
+- 🌱 I’m currently learning for create a new typescript language
+
 <!--
 **Lounge-Lizard-dev/Lounge-Lizard-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
