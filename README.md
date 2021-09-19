@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![Cover] https://geo.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fgeo.2F2020.2F01.2F06.2F488542db-924d-4b2a-acfd-f09e2de36b4b.2Ejpeg/1800x675/background-color/ffffff/quality/70/picture.jpg
+! Cover https://geo.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fgeo.2F2020.2F01.2F06.2F488542db-924d-4b2a-acfd-f09e2de36b4b.2Ejpeg/1800x675/background-color/ffffff/quality/70/picture.jpg
