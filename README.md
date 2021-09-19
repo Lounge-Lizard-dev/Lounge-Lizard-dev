@@ -5,7 +5,8 @@
 - ⚡ Fun fact: Soory i don't have any discord for the moment
 - 💬 Ask me about all you want
 - 👯 I’m looking to collaborate on a friend for create object on 3D for fun 
-- 
+- 😄 Pronouns: He/His
+- 📫 How to reach me: Waiting
 
 <!--
 **Lounge-Lizard-dev/Lounge-Lizard-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
