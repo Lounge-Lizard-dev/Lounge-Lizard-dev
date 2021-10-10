@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/His
 - 📫 How to reach me: Waiting
 - Website : https://lounge-lizard-dev.github.io/
-- See : https://kajuwingu-robot.github.io/
+- See : https://git.io/JogJ3
 <!--
 **Lounge-Lizard-dev/Lounge-Lizard-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
