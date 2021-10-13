@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 -->
 ![Lounge-Lizard-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lounge-Lizard-dev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![Lounge-Lizard-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lounge-Lizard-dev&theme=vue-dark&hide_border=false)
+[![Lounge-Lizard-dev's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lounge-Lizard-dev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
