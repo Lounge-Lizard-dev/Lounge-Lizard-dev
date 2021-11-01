@@ -10,12 +10,19 @@
 - Website : https://lounge-lizard-dev.github.io/
 - See : https://git.io/JogJ3
 
-<a href="https://github.com/lounge-lizard-dev/solitaire-with-ball">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><a href="https://github.com/lounge-lizard-dev/solitaire-with-ball">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lounge-lizard-dev&repo=solitaire-with-ball" />
-</a>
-<a href="https://github.com/Lounge-Lizard-dev/Ai-cpp/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lounge-lizard-dev&repo=Ai-cpp/" />
-</a>
-
-![Lounge-Lizard-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lounge-Lizard-dev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-![Lounge-Lizard-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lounge-Lizard-dev&theme=vue-dark&hide_border=false)
+</a></td>
+<td style="width: 50%;"><a href="https://github.com/Lounge-Lizard-dev/Ai-cpp/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lounge-lizard-dev&repo=Ai-cpp" />
+</a></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lounge-Lizard-dev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"</td>
+<td style="width: 50%;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lounge-Lizard-dev&theme=vue-dark&hide_border=false"</td>
+</tr>
+</tbody>
+</table>
