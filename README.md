@@ -9,20 +9,13 @@
 - 📫 How to reach me: Waiting
 - Website : https://lounge-lizard-dev.github.io/
 - See : https://git.io/JogJ3
-<!--
-**Lounge-Lizard-dev/Lounge-Lizard-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github.com/lounge-lizard-dev/solitaire-with-ball">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lounge-lizard-dev&repo=solitaire-with-ball" />
+</a>
+<a href="https://github.com/Lounge-Lizard-dev/Ai-cpp/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lounge-lizard-dev&repo=Ai-cpp/" />
+</a>
 
-- 🔭 I’m currently working on an new project about app of Rules of Rugby
-- 🌱 I’m currently learning for create a new typescript language
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about all you want
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 ![Lounge-Lizard-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lounge-Lizard-dev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![Lounge-Lizard-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lounge-Lizard-dev&theme=vue-dark&hide_border=false)
