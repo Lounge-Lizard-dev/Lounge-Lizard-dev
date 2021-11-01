@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lounge-lizard-dev&repo=solitaire-with-ball" />
 </a></td>
 <td style="width: 50%;"><a href="https://github.com/Lounge-Lizard-dev/Ai-cpp/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lounge-lizard-dev&repo=Ai-cpp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lounge-lizard-dev&repo=Ai-c-cpp" />
 </a></td>
 </tr>
 <tr>
