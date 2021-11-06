@@ -46,7 +46,6 @@
         <h3>Vibing to</h3>
     <img src="spotify.svg">
         
-##📈 Interesting numbers
     <table style="border-collapse: collapse; width: 100%;" border="1">
         <tbody>
         <tr>
