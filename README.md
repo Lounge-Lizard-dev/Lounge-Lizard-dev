@@ -44,7 +44,8 @@
     <a href="https://open.spotify.com/playlist/60pdJ1OuiQzalrxC81SX98"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"
     <br>
         <h3>🎶Vibing to</h3>
-    <img src="spotify.svg">
+        <a href="https://open.spotify.com/playlist/7xMr6V00WmTLRzQUFVCx0B?si=4ba893bc0aed487b"><img src="spotify.svg"></a>
+        <a href="https://open.spotify.com/playlist/60pdJ1OuiQzalrxC81SX98?si=2b0dc4721fc14ede"><img src="spotify.svg"></a>
     <h3>📈 Interesting numbers</h3>
     <table style="border-collapse: collapse; width: 100%;" border="1">
         <tbody>
