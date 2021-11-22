@@ -58,7 +58,7 @@
         </a></td>
         </tr>
         <tr>
-        <td style="width: 50%;"><a href="https://github.com/Lounge-Lizard-dev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lounge-Lizard-dev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"</td></a>
+        <td style="width: 50%;"><a href="https://github.com/Lounge-Lizard-dev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lounge-Lizard-dev&theme=vue-dark&show_icons=true&hide_border=false"</td></a>
         <td style="width: 50%;"><a href="https://github.com/Lounge-Lizard-dev/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lounge-Lizard-dev&theme=vue-dark&hide_border=false"</td></a>
         </tr>
         </tbody>
